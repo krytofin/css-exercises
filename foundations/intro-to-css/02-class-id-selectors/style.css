@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+body > *:nth-child(odd){
+    background-color: #FFA5A5;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id_element_1 {
+    color: rgb(12, 26, 221);
+    font-size: 36px;
+}
+
+.another_elemtnt {
+    font-size: 24px;
+}
+
+#id_elenebt_2{
+    font-weight: bold;
+    font-size: 24px;
+    background-color: rgb(11, 226, 64);
+}
